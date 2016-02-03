@@ -1,0 +1,8 @@
+URL=http://192.168.2.37:3060
+externalURL=http://122.166.13.181/reachwell/v6
+DUMMY=http://192.168.2.37:3060 192.168.0.21:85
+btype=ff
+uname=vinay
+pwd=123
+Chrome_Path=D:\\chromedriver.exe  
+IE_Path=D:\\IEDriverServer1.exe  
